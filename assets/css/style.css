@@ -105,7 +105,7 @@ header > a > #logo {
   opacity: 0;
 }
 #menuToggle input:checked ~ img {
-  content: url("/assets/images/icon-close.svg");
+  content: url("../images/iconClose.svg");
   width: 20px;
   height: 20px;
 }
