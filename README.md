@@ -21,7 +21,7 @@ The designs were created to the following widths:
 
 ## **Links**
 
-- Live Site URL: [click here](https://mahdicodes1.github.io/3-column-preview-card-component/)
+- Live Site URL: [click here](https://mahdicodes1.github.io/Project-tracking-intro-component/)
 
 <br>
 
