@@ -7,7 +7,7 @@
 
 # **Challenge Name**
 
-- ### [Project tracking intro component](https://www.frontendmentor.io/solutions/3column-preview-card-component-SjFCVGR6hP)
+- ### [Project tracking intro component](https://www.frontendmentor.io/solutions/project-tracking-intro-component-uS8VflPNgi)
 
 <br>
 
