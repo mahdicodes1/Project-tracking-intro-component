@@ -297,15 +297,15 @@ main > section > .schedule > span {
   .background-color {
     height: 45vh;
     width: 37vw;
-    max-width: 1300px;
+    max-width: 1440px;
   }
   .container {
-    max-width: 1300px;
+    max-width: 1440px;
   }
   header {
     align-self: center;
     margin-top: 40px;
-    max-width: 1300px;
+    max-width: 1440px;
   }
   header > nav {
     margin-right: 110px;
@@ -398,7 +398,7 @@ main > section > .schedule > span {
     align-self: start;
 
     margin-top: 100px;
-    max-width: 1300px;
+    max-width: 1440px;
   }
   main > section {
     flex-grow: 1;
